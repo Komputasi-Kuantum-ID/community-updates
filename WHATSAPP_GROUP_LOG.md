@@ -40,3 +40,12 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum yang dibagik
 ## 😂 Saran Nama
 * Anggota menyarankan nama grup (lucu2an) diganti menjadi **KOKAIN (Komputer Kuantum Indonesia)**.
     * Saran ini ditanggapi positif oleh Admin dan anggota lain.
+
+## 👥 Perkembangan Anggota (We Are Growing)
+
+* **Saat ini:** 90+ anggota
+> Yuk, ajak temen-temen yang lain!
+
+* **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)  
+* **3 November 2025:** 47 anggota (pembukaan grup)  
+* **5 November 2025:** 82 anggota
