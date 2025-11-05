@@ -3,7 +3,7 @@
 ## 📅 Event Terdekat
 **Sharing Perdana:**  
 **"What is Quantum Computing and What's Not Quantum Computing"**  
-oleh **Drestanto Muhammad Dyasputro** – Periset Baru di Komputasi Kuantum  
+oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum  
 🗓️ **Senin, 10 November 2025**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom**  
@@ -12,4 +12,4 @@ oleh **Drestanto Muhammad Dyasputro** – Periset Baru di Komputasi Kuantum
 ---
 
 ## 🕓 Arsip Kegiatan
-**2 November 2025** — Grup dibuka kembali setelah masa penutupan chat.
+**2 November 2025**: Grup WA pertama dibuka, para member berkenalan.
