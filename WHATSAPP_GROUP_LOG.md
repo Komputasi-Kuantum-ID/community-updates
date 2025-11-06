@@ -34,6 +34,8 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
     * Algoritma untuk **simulasi sistem material kuantum** (Kata Feynman: "simulasi material skala mikro-mesoskopik naturally harus pakai komputer kuantum").
     * Penerapan di bidang **security** dan **real time fraud detection** (anomali detection).
     * Diskusi tentang [**Thermodynamic Computing** dari Extropic AI](https://extropic.ai/writing/thermodynamic-computing-from-zero-to-one)
+* **Ketertarikan Belajar Quantum Computing**: sharing ilmu komputasi kuantum dari dasar hingga mahir (at least 2 orang tertarik)
+    * bootcamp style (zero to hero) vs webinar style (case sharing)
 
 ## 😂 Saran Nama
 * Anggota menyarankan nama grup (lucu2an) diganti menjadi **KOKAIN (Komputer Kuantum Indonesia)**.
@@ -41,9 +43,10 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 
 ## 👥 Perkembangan Anggota (We Are Growing)
 
-* **Saat ini:** 90+ anggota
+* **Saat ini:** 120+ anggota
 > Yuk, ajak temen-temen yang lain!
 
 * **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)  
-* **3 November 2025:** 47 anggota (pembukaan grup)  
-* **5 November 2025:** 82 anggota
+* **3 November 2025:** 47 anggota (pembukaan grup, ga nyangka)
+* **5 November 2025:** 82 anggota (ternyata banyak)
+* **6 November 2025:** berapa anggota? ratusan [ga cuma t*ngo yg bisa ratusan] (jumlah member 3 digit)
