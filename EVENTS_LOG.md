@@ -7,7 +7,7 @@ oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum
 🗓️ **Senin, 10 November 2025**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom**  
-🔗 Gausah regis, masuk grup WA nya aja: (https://bit.ly/KompKuantID)[https://bit.ly/KompKuantID]
+🔗 Gausah regis, masuk grup WA nya aja (grup yang sama yak): [https://bit.ly/KompKuantID](https://bit.ly/KompKuantID)
 
 ---
 
