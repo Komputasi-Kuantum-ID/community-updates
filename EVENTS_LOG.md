@@ -11,7 +11,7 @@
 oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum  
 🗓️ **Senin, 10 November 2025**  
 🕖 **19.00 WIB**  
-📍 **Via Zoom**
+📍 **Via Zoom** \
 🪵 [Log](events_log/2025_11_10-Pengenalan.md) \
 🔗 [Supporting files](https://drive.google.com/drive/folders/1oonBkXp_k1I3XZ1_wI3IR5qpIJf6M6KS?usp=drive_link) \
 Participant: 93 (according to Zoom) \
