@@ -36,6 +36,15 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
     * Diskusi tentang [**Thermodynamic Computing** dari Extropic AI](https://extropic.ai/writing/thermodynamic-computing-from-zero-to-one)
 * **Ketertarikan Belajar Quantum Computing**: sharing ilmu komputasi kuantum dari dasar hingga mahir (at least 2 orang tertarik)
     * bootcamp style (zero to hero) vs webinar style (case sharing)
+* **Anggota saling berbagi sumber belajar**: Ebook, artikel, dll
+    * 📘 *Quantum Computation and Quantum Information* – Nielsen & Chuang (PDF)
+    * 📗 *Quantum Computing for Everyone* – MIT Press
+    * 📄 Artikel populer: *Physicists Take the Imaginary Numbers Out of Quantum Mechanics* (Quanta Magazine)
+
+## 🧩 QnA in the Group
+* **Dekoherensi dalam sistem kuantum**
+  * Pertanyaan: "Teknologi mutakhir untuk mengatasi dekoherensi apa?"
+  * Jawaban: "Dynamical decoupling termasuk yang cukup sering dipakai; itu lebih ke teknik, bukan teknologi.""
 
 ## 😂 Saran Nama
 * Anggota menyarankan nama grup (lucu2an) diganti menjadi **KOKAIN (Komputer Kuantum Indonesia)**.
@@ -43,10 +52,11 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 
 ## 👥 Perkembangan Anggota (We Are Growing)
 
-* **Saat ini:** 120+ anggota
+* **Saat ini:** 190+ anggota
 > Yuk, ajak temen-temen yang lain!
 
 * **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)  
 * **3 November 2025:** 47 anggota (pembukaan grup, ga nyangka)
 * **5 November 2025:** 82 anggota (ternyata banyak)
 * **6 November 2025:** berapa anggota? ratusan [ga cuma t*ngo yg bisa ratusan] (jumlah member 3 digit)
+* **9 November 2025:** 150+ anggota
