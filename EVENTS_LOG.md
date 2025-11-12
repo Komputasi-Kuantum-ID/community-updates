@@ -1,15 +1,22 @@
-# ⚛️ Acara-acana di Komunitas Belajar Komputasi Kuantum
+# ⚛️ Acara-acara di Komunitas Belajar Komputasi Kuantum
 
 ## 📅 Event Terdekat
-**Sharing Perdana:**  
+**On Polling**
+
+---
+
+## 📅 Past Event
+**Sharing Perdana (done):**  
 **"What is Quantum Computing and What's Not Quantum Computing"**  
 oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum  
 🗓️ **Senin, 10 November 2025**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom**  
-🔗 Gausah regis, masuk grup WA nya aja (grup yang sama yak): [https://bit.ly/KompKuantID](https://bit.ly/KompKuantID)
-
----
+🔗 [Log](https://drive.google.com/drive/folders/1oonBkXp_k1I3XZ1_wI3IR5qpIJf6M6KS?usp=drive_link)
+Participant: 93 (according to Zoom)
+Duration Attendance (per participant): 46 minutes (according to Zoom)
+Duration Attendance (total): 4293 minutes (according to Zoom)
 
 ## 🕓 Arsip Kegiatan
+**10 November 2025**: Sharing pertama by Zoom
 **2 November 2025**: Grup WA pertama dibuka, para member berkenalan.
