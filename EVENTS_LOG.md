@@ -10,17 +10,18 @@ oleh **[coming soon]**
 ---
 
 ## 📅 Past Event
-### Sharing Quantum Circuit
+### Sharing Quantum Circuit (done)
 **"Inside the Quantum Machine: Qubits, Circuits, and Gates"**  
 oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum  
 🗓️ **Rabu, 19 November 2025**  
-🕖 **19.00 WIB**  
-📍 **Via Zoom**  
-🔗 [Log](https://drive.google.com/drive/folders/1252fgzVaJtxi_su8WRc5FyyjTQ99nP1M?usp=drive_link)
-Zoom Participant: 34 (according to Zoom)
-Duration Attendance (per participant): 31 minutes (according to Zoom)
-Duration Attendance (total): 1052 minutes (according to Zoom)
-Live Youtube Participant: 26 (according to youtube)
+🕖 **19.00 WIB** 
+📍 **Via Zoom** \
+🪵 [Log](events_log/2025_11_10-Circuit.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1252fgzVaJtxi_su8WRc5FyyjTQ99nP1M?usp=drive_link) \
+Zoom Participant: 34 (according to Zoom) \
+Duration Attendance (per participant): 31 minutes (according to Zoom) \
+Duration Attendance (total): 1052 minutes (according to Zoom) \
+Live Youtube Participant: 26 (according to youtube) \
 Peak concurrency: 3 particants (according to youtube)
 
 ### Sharing Perdana (done)
