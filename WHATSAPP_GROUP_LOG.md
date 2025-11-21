@@ -52,7 +52,7 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 
 ## 👥 Perkembangan Anggota (We Are Growing)
 
-* **Saat ini:** 190+ anggota
+* **Saat ini:** 200 anggota
 > Yuk, ajak temen-temen yang lain!
 
 * **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)  
@@ -60,3 +60,4 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 * **5 November 2025:** 82 anggota (ternyata banyak)
 * **6 November 2025:** berapa anggota? ratusan [ga cuma t*ngo yg bisa ratusan] (jumlah member 3 digit)
 * **9 November 2025:** 150+ anggota
+* **14 November 2025:** 200 anggota
