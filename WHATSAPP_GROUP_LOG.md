@@ -45,6 +45,18 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 * **Dekoherensi dalam sistem kuantum**
   * Pertanyaan: "Teknologi mutakhir untuk mengatasi dekoherensi apa?"
   * Jawaban: "Dynamical decoupling termasuk yang cukup sering dipakai; itu lebih ke teknik, bukan teknologi.""
+* **Wujud Fisik *Qubit Gate***
+  * **Pertanyaan:** "Kalau classical computer, logic gate itu kan bentuk fisiknya susunan transistor ya. Kalau qubit gate apa ya?"
+  * **Jawaban:** Wujud fisik *qubit gate* tergantung pada jenis *qubit* yang digunakan. Sebagai contoh, jika menggunakan *qubit* berbasis foton (*photon*), *gate* tersebut dapat tersusun dari *beam splitter* dan *phase shifter*. Kalo untuk superconducting qubit, gate ini ngga punya representasi fisik kyk transistor, karena operasinya pakai microwave pulse yang ditembakkan ke qubitnya
+* **Eksplorasi D-Wave di *Local Machine***
+  * **Pertanyaan:** Adakah yang pernah eksplorasi D-Wave *machine*? Apakah bisa melakukan eksplorasi D-Wave di *local machine*?
+  * **Diskusi:** D-Wave pada dasarnya adalah perangkat keras (*hardware*/*machine*), bukan hanya sebuah teknik, sehingga eksplorasi langsung di *local machine* tidak dimungkinkan tanpa akses ke perangkat fisiknya (atau simulator resminya).
+* **Alternatif Library Komputasi Kuantum & *Quantum Optimization***
+  * **Pertanyaan:** Kalau misal mau eksplorasi *quantum optimization* untuk *routing problem* itu biasanya pakai *tool* apa selain IBM Qiskit?
+  * **Jawaban:** Salah satu alternatif yang dapat digunakan adalah **Penny Lane**.
+* **Qubits vs Qutrits (Dasar 3 dan Sejarah USSR)**
+  * **Pertanyaan:** Kenapa *qubit* lebih diketahui daripada *qutrits*? Teknologi berbasis 3 ini pernah dicoba dikembangkan di **USSR** (Uni Soviet) namun tidak berkembang. Basis 3 yaitu 1, 0, -1.
+  * **Jawaban:** Kemungkinan besar karena kebiasaan *bit* (basis 2). Meskipun unit informasi berbasis 3 juga memungkinkan secara teoretis, mengontrol listriknya lebih sulit. Qubit mungkin alasannya mirip2/sama
 
 ## 😂 Saran Nama
 * Anggota menyarankan nama grup (lucu2an) diganti menjadi **KOKAIN (Komputer Kuantum Indonesia)**.
@@ -52,7 +64,7 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 
 ## 👥 Perkembangan Anggota (We Are Growing)
 
-* **Saat ini:** 200 anggota
+* **Saat ini:** 226 anggota
 > Yuk, ajak temen-temen yang lain!
 
 * **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)  
@@ -61,3 +73,4 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 * **6 November 2025:** berapa anggota? ratusan [ga cuma t*ngo yg bisa ratusan] (jumlah member 3 digit)
 * **9 November 2025:** 150+ anggota
 * **14 November 2025:** 200 anggota
+* **17 November 2025:** 222 anggota (nomor cantik, wkwkwkwk)
