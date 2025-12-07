@@ -19,6 +19,17 @@ Peluang dan kesempatan yang dibagikan atau dibahas di grup:
     * Anggota yang bergabung untuk tujuan **talent scouting** karena tidak menutup kemungkinan lab tempatnya bekerja membuka kesempatan untuk **scholarship bidang kuantum**.
 * Informasi mengenai **SQA PhD Scholarships** dan **Future Leaders in Quantum Computing Scholarship** dari **Sydney Quantum Academy (SQA)** yang dibuka tiap tahun dalam dua gelombang.
     * Link: [https://sydneyquantum.org/program/sqa-phd-scholarships/](https://sydneyquantum.org/program/sqa-phd-scholarships/) dan [https://sydneyquantum.org/program/sqa-phd-scholarships/](https://sydneyquantum.org/program/future-leaders-in-quantum-computing-scholarship/)
+* **Beasiswa Lab InfoSec & Physical AI Laboratory, Pusan National University (Korea Selatan)**
+    * Vacancy: 2 student (Integrated Master-PhD / PhD)
+    * Research Field: AI & IoT (Physical AI), Quantum Computing, Cybersecurity, HW & Security, Blockchain
+    * Support: 2-3 juta Won/bulan, umur tidak dibatasi
+    * Riset lab: 70% project research (riset + engineering), 30% riset pure paper
+    * Web: [https://infosec.pusan.ac.kr/](https://infosec.pusan.ac.kr/)
+    * Info lengkap: [LinkedIn](https://www.linkedin.com/posts/zonblade_beasiswa-indonesia-kuliah-activity-7397222019232231424-wTaf) | [GDocs](https://docs.google.com/document/d/1Dhhp5rcCyw3XzeYY5nrXlnaTgEmnj3vB-L1TzboNRYs/edit?tab=t.0)
+* **QNM-I Graduate Student Fellowships (University of New Mexico)**
+    * Untuk PhD applicants di Physics, Chemistry, Electrical Engineering, atau Computer Engineering
+    * Bisa kerja dengan researchers di QNM-I, Sandia, atau Los Alamos National Labs
+    * Link: [https://cquic.unm.edu/about/join-us.html](https://cquic.unm.edu/about/join-us.html)
 
 ## 🤝 Komunitas *Quantum Computing* Lain
 Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by community member):
@@ -57,6 +68,49 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 * **Qubits vs Qutrits (Dasar 3 dan Sejarah USSR)**
   * **Pertanyaan:** Kenapa *qubit* lebih diketahui daripada *qutrits*? Teknologi berbasis 3 ini pernah dicoba dikembangkan di **USSR** (Uni Soviet) namun tidak berkembang. Basis 3 yaitu 1, 0, -1.
   * **Jawaban:** Kemungkinan besar karena kebiasaan *bit* (basis 2). Meskipun unit informasi berbasis 3 juga memungkinkan secara teoretis, mengontrol listriknya lebih sulit. Qubit mungkin alasannya mirip2/sama
+* **Kompleksitas Measurement n-Qubits (Koreksi Materi Sharing)**
+  * **Konteks:** Diskusi antara Admin (Dyas) dan Mas Ditto (Caesnan M. G. L.) terkait penjelasan di sharing sebelumnya tentang kompleksitas simulasi measurement.
+  * **Pembahasan Awal:** Di sharing, dijelaskan bahwa measurement 1 qubit di quantum machine diasumsikan O(1), dan simulasi klasik untuk n qubit butuh O(2^n).
+  * **Koreksi dari Mas Ditto:**
+    * Untuk **readout bit** yang di-encode ke qubit, quantum machine **juga butuh exponential time** (2^n samplings).
+    * Ini disebut **state tomography** dalam fisika.
+    * Encode bits ke quantum state juga exponential time.
+    * Ini adalah **bottleneck** untuk quantum algorithms kalau mau encode sebarang tipe data (*quantum state preparation*).
+  * **Klarifikasi Admin:**
+    * Measurement yang dimaksud di sharing adalah **observing qubit** (collapsing ke 1 state → 1 bitstring), bukan mendapatkan semua nilai amplitudo (a dan b).
+    * Untuk kasus seperti **QAOA MaxCut**, solusi ter-encode di bitstring hasil measurement. Yang dicari adalah bitstring dengan probabilitas tertinggi, bukan seluruh probability landscape.
+  * **Kesimpulan Diskusi:**
+    * Jika ingin mendapatkan **probability landscape** lengkap, sampling harus ditingkatkan secara eksponensial (2^n).
+    * Bahkan untuk mendapatkan **highest probability saja**, tetap butuh sampling yang cukup untuk memastikan validitasnya.
+    * Contoh di [PennyLane QAOA tutorial](https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut): 100 shots untuk 4 qubit sudah cukup, tapi skalabilitasnya perlu diteliti lebih lanjut.
+  * **Takeaway:** Admin mengakui penjelasan di sharing sebelumnya kurang tepat di bagian ini. Ide membuat quantum algorithm adalah bagaimana menjaga jumlah sampling tetap constant, tapi butuh riset lebih dalam.
+
+## 📅 Event & Kegiatan
+* **Kolokium Fisika Kuantum BRIN (26 November 2025)**
+    * Diinfokan oleh Mas Ridwan dari Quantum Research BRIN
+    * Zoom meeting dengan pembicara Mas Taufiqi
+* **Sharing Online: Pengalaman Riset dan Publikasi Teleportasi Kuantum (3 Desember 2025)**
+    * Pembicara: Rafika Rahmawati (BRIN)
+    * Hosted via Zoom UniMelb
+    * Recording dan slides akan di-share di kemudian hari
+* **Workshop on Quantum Benchmarks and Metrology (WQBM)**
+    * Info dari Mas Ditto: [https://wqbm.info/](https://wqbm.info/) - Online dan free
+* **Event di Melbourne (untuk yang di Melb)**
+    * Info dari Mas Ditto: [Cvent Event](https://web.cvent.com/event/7f2ec0bb-6857-441d-8e4c-463bdfca8ddd/summary)
+    * 150 AUD untuk 5 hari (murah, bisa disubsidi supervisor)
+
+## 📝 Survey Komunitas
+* Admin membuka survey untuk arah komunitas ke depannya
+* Link: [Google Form Survey](https://docs.google.com/forms/d/e/1FAIpQLScy6oohoCFJrnCzf9udWVYWYKhTntyOzKczvJj5B8AeERN0yg/viewform?usp=dialog)
+* Deadline: 5 Desember 2025
+
+## ⚠️ Aturan Grup & Moderasi
+* **Konten harus relevan dengan Quantum Computing.** Sharing info boleh tanpa izin admin, tapi harus kasih konteks kenapa nyambung dengan quantum.
+* **Spam dan penipuan tidak ditoleransi.** Beberapa akun sudah di-kick karena:
+    * Spam konten tidak relevan (setelah diperingatkan)
+    * Penipuan (langsung kick)
+* **Link grup sudah di-reset (7 Desember 2025)** karena link lama sudah terindex dan dimasuki akun spam/penipu. Link lama akan expired dalam 90 hari.
+* **Ke depannya akan lebih ketat** dalam moderasi untuk menjaga kualitas grup.
 
 ## 😂 Saran Nama
 * Anggota menyarankan nama grup (lucu2an) diganti menjadi **KOKAIN (Komputer Kuantum Indonesia)**.
@@ -64,13 +118,14 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 
 ## 👥 Perkembangan Anggota (We Are Growing)
 
-* **Saat ini:** 226 anggota
+* **Saat ini:** 315+ anggota
 > Yuk, ajak temen-temen yang lain!
 
-* **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)  
+* **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)
 * **3 November 2025:** 47 anggota (pembukaan grup, ga nyangka)
 * **5 November 2025:** 82 anggota (ternyata banyak)
 * **6 November 2025:** berapa anggota? ratusan [ga cuma t*ngo yg bisa ratusan] (jumlah member 3 digit)
 * **9 November 2025:** 150+ anggota
 * **14 November 2025:** 200 anggota
 * **17 November 2025:** 222 anggota (nomor cantik, wkwkwkwk)
+* **4 Desember 2025:** 300+ anggota (tembus 300!)
