@@ -1,15 +1,27 @@
 # ⚛️ Acara-acara di Komunitas Belajar Komputasi Kuantum
 
 ## 📅 Event Terdekat
-**Sharing Pengalaman Riset dan Publikasi tentang Quantum Computing**
-oleh **[coming soon]**
-🗓️ **Rabu, 3 Desember 2025**  
+**Launching Komunitas dan Learning Roadmap Sharing**
+oleh **Drestanto Muhammad Dyasputro** (lagi, wkwkwkwk)
+🗓️ **Senin, 15 Desember 2025**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom** 
 
 ---
 
 ## 📅 Past Event
+### Sharing Research Quantum
+**Riset dan Publikasi Teleportasi Kuantum**  
+oleh mba **Rafika Rahmawati**: Peneliti Muda PRFK (Pusat Riset Fisika Kuantum) BRIN  
+🗓️ **Rabu, 3 Desember 2025**  
+🕖 **19.00 WIB** 
+📍 **Via Zoom** \
+🪵 [Log](events_log/2025_12_03-Research.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1Og6j-GM75kMyiLuAGaEo7sBa2XQyeuM-?usp=sharing) \
+Zoom Participant: 66 (according to Zoom) \
+Duration Attendance (per participant): 41 minutes \
+Duration Attendance (total): 2724 minutes (according to Zoom)
+
 ### Sharing Quantum Circuit (done)
 **"Inside the Quantum Machine: Qubits, Circuits, and Gates"**  
 oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum  
@@ -19,7 +31,7 @@ oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum
 🪵 [Log](events_log/2025_11_19-Circuit.md) \
 🔗 [Supporting files](https://drive.google.com/drive/folders/1252fgzVaJtxi_su8WRc5FyyjTQ99nP1M?usp=drive_link) \
 Zoom Participant: 34 (according to Zoom) \
-Duration Attendance (per participant): 31 minutes (according to Zoom) \
+Duration Attendance (per participant): 31 minutes \
 Duration Attendance (total): 1052 minutes (according to Zoom) \
 Live Youtube Participant: 26 (according to youtube) \
 Peak concurrency: 3 particants (according to youtube)
@@ -33,7 +45,7 @@ oleh **Drestanto Muhammad Dyasputro**: Periset Baru di Komputasi Kuantum
 🪵 [Log](events_log/2025_11_10-Pengenalan.md) \
 🔗 [Supporting files](https://drive.google.com/drive/folders/1oonBkXp_k1I3XZ1_wI3IR5qpIJf6M6KS?usp=drive_link) \
 Participant: 93 (according to Zoom) \
-Duration Attendance (per participant): 46 minutes (according to Zoom) \
+Duration Attendance (per participant): 46 minutes \
 Duration Attendance (total): 4293 minutes (according to Zoom)
 
 ## 🕓 Arsip Kegiatan
