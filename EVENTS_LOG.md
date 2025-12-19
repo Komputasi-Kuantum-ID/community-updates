@@ -1,15 +1,23 @@
 # ⚛️ Acara-acara di Komunitas Belajar Komputasi Kuantum
 
 ## 📅 Event Terdekat
-**Launching Komunitas dan Learning Roadmap Sharing**
-oleh **Drestanto Muhammad Dyasputro** (lagi, wkwkwkwk)
-🗓️ **Senin, 15 Desember 2025**  
-🕖 **19.00 WIB**  
-📍 **Via Zoom** 
+**Coming Soon**
 
 ---
 
 ## 📅 Past Event
+### Sharing Learning Roadmap
+**Launching Komunitas dan Learning Roadmap Sharing**
+oleh **Drestanto Muhammad Dyasputro** (lagi, wkwkwkwk)
+🗓️ **Senin, 15 Desember 2025**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
+🪵 [Log](events_log/2025_12_15-Learning.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1a6QxR1o073jvZ5ZqvFRV2Cn_WDeJEJNX?usp=sharing) \
+Zoom Participant: 59 (according to Zoom) \
+Duration Attendance (per participant): 40 minutes \
+Duration Attendance (total): 2350 minutes (according to Zoom)
+
 ### Sharing Research Quantum
 **Riset dan Publikasi Teleportasi Kuantum**  
 oleh mba **Rafika Rahmawati**: Peneliti Muda PRFK (Pusat Riset Fisika Kuantum) BRIN  
@@ -49,6 +57,9 @@ Duration Attendance (per participant): 46 minutes \
 Duration Attendance (total): 4293 minutes (according to Zoom)
 
 ## 🕓 Arsip Kegiatan
-**19 November 2025**: Sharing Quantum Circuit by Zoom
-**10 November 2025**: Sharing pertama by Zoom
+**15 Desember 2025**: Sharing LEarning Roadmap by Zoom \
+**15 Desember 2025**: Community Launching by WA \
+**3 Desember 2025**: Sharing Teleportasi Quantum by Zoom \
+**19 November 2025**: Sharing Quantum Circuit by Zoom and YouTube \
+**10 November 2025**: Sharing pertama by Zoom \
 **2 November 2025**: Grup WA pertama dibuka, para member berkenalan.
