@@ -52,6 +52,61 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
     * 📗 *Quantum Computing for Everyone* – MIT Press
     * 📄 Artikel populer: *Physicists Take the Imaginary Numbers Out of Quantum Mechanics* (Quanta Magazine)
 
+## 🧠 Diskusi Lanjutan: *Quantum Machine Learning* & Diffusion Models
+
+Ringkasan diskusi teknis lanjutan di grup terkait *Quantum Machine Learning (QML)*, khususnya **Quantum Diffusion Models (QDM)** dan tantangan optimisasinya.
+
+### 🔬 Quantum Diffusion Models (QDM)
+* Salah satu anggota sedang melakukan riset **Quantum Diffusion Models** dengan dataset **FMNIST**.
+* Permasalahan utama:
+  * **Loss stuck di ~0.49** meskipun training sudah >400 epochs.
+  * Diduga kuat akibat **barren plateaus** pada *global cost function*.
+* Referensi model:
+  * Paper utama: *Generative Quantum Machine Learning via Denoising Diffusion Probabilistic Models* (Phys. Rev. Lett.)
+  * ArXiv: https://arxiv.org/abs/2311.15444
+
+### ⚙️ Arsitektur & Pendekatan Model
+* Model menggunakan pendekatan **hybrid**:
+  * **Markov chain** diimplementasikan via **quantum circuit**
+  * *Backward denoising process*: **full quantum**
+  * Optimizer & data loading: **classical**
+* Menggunakan **latent model** (via classical autoencoder).
+* Implementasi **bukan dari nol**, melainkan hasil *enhance & modify* dari source code penulis paper.
+
+### 🛠️ Teknik Mitigasi & Optimisasi
+* **QEM (Quantum Error Mitigation)**:
+  * Menggunakan **Zero Noise Extrapolation (ZNE)**
+* **QNGD (Quantum Natural Gradient Descent)**:
+  * Menggantikan Adam optimizer.
+  * Adam → berbasis **Euclidean gradient**
+  * QNGD → berbasis **Fubini–Study metric** (quantum Fisher information).
+  * Secara teori: **vanishing gradient lebih kecil**, tapi **computational cost lebih mahal**.
+* Strategi tambahan:
+  * Mengganti **global cost function** dengan **local Pauli-Z based loss**.
+  * Mengurangi noise di awal epochs agar denoiser lebih mudah belajar.
+
+### 📉 Barren Plateaus & Expressivity
+* Diskusi mengarah ke hubungan **barren plateaus** dengan:
+  * **2-design quantum circuits** (circuit yang cepat “scramble” informasi).
+  * Trade-off antara **expressivity vs trainability**.
+* Ansatz yang terlalu mendekati 2-design → risiko vanishing gradient makin besar.
+* Alternatif mitigasi:
+  * Memanfaatkan **simetri problem** dalam konstruksi ansatz.
+  * Analisis lewat **dynamical Lie algebra**.
+* Catatan penting:
+  * Barren plateau **tidak hanya muncul dari ansatz**, tapi juga dari **noise hardware**.
+
+### 🎓 Peluang Akademik Terkait
+* **NUS Young Fellowship 2026**
+  * Link: https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/#overview
+  * Dibagikan sebagai peluang bagi anggota yang tertarik riset lanjutan.
+
+### 🧭 Insight Umum
+* QML saat ini masih **belum menunjukkan practical advantage** dibanding classical ML.
+* Namun:
+  * Secara konseptual sangat kaya (geometri Hilbert space, informasi kuantum).
+  * Menjadi topik riset yang **menarik dan aktif berkembang**.
+
 ## 🧩 QnA in the Group
 * **Dekoherensi dalam sistem kuantum**
   * Pertanyaan: "Teknologi mutakhir untuk mengatasi dekoherensi apa?"
@@ -118,7 +173,7 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 
 ## 👥 Perkembangan Anggota (We Are Growing)
 
-* **Saat ini:** 315+ anggota
+* **Saat ini:** hampir 500 anggota
 > Yuk, ajak temen-temen yang lain!
 
 * **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)
@@ -129,3 +184,5 @@ Informasi mengenai komunitas dan sumber daya lain di bidang kuantum (shared by c
 * **14 November 2025:** 200 anggota
 * **17 November 2025:** 222 anggota (nomor cantik, wkwkwkwk)
 * **4 Desember 2025:** 300+ anggota (tembus 300!)
+* **28 Desember 2025:** 333 anggota (nomor cantik, wkwkwkwk)
+* **29 Desember 2025:** 400+ anggota (tembus 400)
