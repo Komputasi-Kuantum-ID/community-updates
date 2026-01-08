@@ -2,12 +2,34 @@
 
 ## 📅 Event Terdekat
 **Coming Soon**
+### Sharing Session 6 (judul masih rahasia)
+🗓️ **Senin, 19 Januari 2026**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
+
+**Coming Soon Lagi**
+### Sharing Session 6 (judul masih rahasia)
+🗓️ **Selasa, 3 / Kamis, 5 Februari 2026**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
 
 ---
 
 ## 📅 Past Event
+### Quantum Error Correction
+**Mengapa Informasi Kuantum Membutuhkan Error Correction? Dari Bit, Qubit, hingga Qudit**  
+oleh mas **Muhammad Imansyah Basudewa**  
+🗓️ **Selasa, 06 Januari 2026**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
+🪵 [Log](events_log/2026_01_06-ErrorCorrection.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1Gt9iQE9W3c3IPcKvZsbExfcRbOYt9dD9?usp=drive_link) \
+Zoom Participant: 69 (according to Zoom) \
+Duration Attendance (per participant): 48 minutes \
+Duration Attendance (total): 3327 minutes (according to Zoom)
+
 ### Sharing Learning Roadmap
-**Launching Komunitas dan Learning Roadmap Sharing**
+**Launching Komunitas dan Learning Roadmap Sharing**  
 oleh **Drestanto Muhammad Dyasputro** (lagi, wkwkwkwk)
 🗓️ **Senin, 15 Desember 2025**  
 🕖 **19.00 WIB**  
