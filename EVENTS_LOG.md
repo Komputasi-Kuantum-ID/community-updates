@@ -5,13 +5,13 @@
 ### Sharing Session 6 (judul masih rahasia)
 🗓️ **Senin, 19 Januari 2026**  
 🕖 **19.00 WIB**  
-📍 **Via Zoom** \
+📍 **Via Zoom**
 
 **Coming Soon Lagi**
 ### Sharing Session 6 (judul masih rahasia)
 🗓️ **Selasa, 3 / Kamis, 5 Februari 2026**  
 🕖 **19.00 WIB**  
-📍 **Via Zoom** \
+📍 **Via Zoom**
 
 ---
 
