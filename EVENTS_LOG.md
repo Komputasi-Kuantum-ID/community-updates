@@ -2,13 +2,13 @@
 
 ## 📅 Event Terdekat
 **Coming Soon**
-### Sharing Session 6 (judul masih rahasia)
+### Sharing Session 6 (judul masih rahasia, hehe)
 🗓️ **Senin, 19 Januari 2026**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom**
 
 **Coming Soon Lagi**
-### Sharing Session 6 (judul masih rahasia)
+### Sharing Session 7 (judul masih rahasia juga)
 🗓️ **Selasa, 3 / Kamis, 5 Februari 2026**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom**
