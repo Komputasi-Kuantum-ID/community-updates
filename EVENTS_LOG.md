@@ -18,7 +18,7 @@
 ## 📅 Past Event
 ### Quantum Error Correction
 **Mengapa Informasi Kuantum Membutuhkan Error Correction? Dari Bit, Qubit, hingga Qudit**  
-oleh mas **Muhammad Imansyah Basudewa**  
+oleh mas **Muhammad Imansyah Basudewa**: Researcher Quantum Computing  
 🗓️ **Selasa, 06 Januari 2026**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom** \
