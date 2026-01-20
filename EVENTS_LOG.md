@@ -1,12 +1,6 @@
 # ⚛️ Acara-acara di Komunitas Belajar Komputasi Kuantum
 
 ## 📅 Event Terdekat
-**Coming Soon**
-### Sharing Session 6 (judul masih rahasia, hehe)
-🗓️ **Senin, 19 Januari 2026**  
-🕖 **19.00 WIB**  
-📍 **Via Zoom**
-
 **Coming Soon Lagi**
 ### Sharing Session 7 (judul masih rahasia juga)
 🗓️ **Selasa, 3 / Kamis, 5 Februari 2026**  
@@ -16,6 +10,18 @@
 ---
 
 ## 📅 Past Event
+### Quantum Algorithms
+**Bedah Quantum Algo Secara Sederhana**  
+oleh **Drestanto Muhammad Dyasputro**  
+🗓️ **Senin, 19 Januari 2026**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
+🪵 [Log](events_log/2026_01_19-QuantumAlgos.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1vO7nDWL1fp_hCSdK65OHqSMIFd39Aukq?usp=drive_link) \
+Zoom Participant: 48 (according to Zoom) \
+Duration Attendance (per participant): 35 minutes \
+Duration Attendance (total): 1675 minutes (according to Zoom)
+
 ### Quantum Error Correction
 **Mengapa Informasi Kuantum Membutuhkan Error Correction? Dari Bit, Qubit, hingga Qudit**  
 oleh mas **Muhammad Imansyah Basudewa**: Researcher Quantum Computing  
@@ -79,7 +85,8 @@ Duration Attendance (per participant): 46 minutes \
 Duration Attendance (total): 4293 minutes (according to Zoom)
 
 ## 🕓 Arsip Kegiatan
-**15 Desember 2025**: Sharing LEarning Roadmap by Zoom \
+**Januari 2026**: Sharing Session Lagi \
+**15 Desember 2025**: Sharing Learning Roadmap by Zoom \
 **15 Desember 2025**: Community Launching by WA \
 **3 Desember 2025**: Sharing Teleportasi Quantum by Zoom \
 **19 November 2025**: Sharing Quantum Circuit by Zoom and YouTube \

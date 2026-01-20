@@ -173,7 +173,7 @@ Ringkasan diskusi teknis lanjutan di grup terkait *Quantum Machine Learning (QML
 
 ## 👥 Perkembangan Anggota (We Are Growing)
 
-* **Saat ini:** hampir 500 anggota
+* **Saat ini:** 500+ anggota
 > Yuk, ajak temen-temen yang lain!
 
 * **2 November 2025:** 0 anggota (awal pembagian undangan di LinkedIn)
