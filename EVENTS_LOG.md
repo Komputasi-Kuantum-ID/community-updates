@@ -2,14 +2,26 @@
 
 ## 📅 Event Terdekat
 **Coming Soon Lagi**
-### Sharing Session 7 (judul masih rahasia juga)
-🗓️ **Selasa, 3 / Kamis, 5 Februari 2026**  
+### Sharing Session 8: Quantum Optimization
+🗓️ **Jumat, 13 Februari 2026**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom**
 
 ---
 
 ## 📅 Past Event
+### Variational Algorithms
+**Variational quantum (and classical) algorithms forHamiltonian Simulation**  
+oleh **Meng E. Ong** ([@fisikawan.gendeng](https://www.instagram.com/fisikawan.gendeng))  
+🗓️ **Selasa, 3 Februari 2026**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
+🪵 [Log](events_log/2026_02_03-Variational.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1n_F9r5pEJaYWvCFdM7jAylX6eMxLVld-?usp=drive_link) \
+Zoom Participant: 79 (according to Zoom) \
+Duration Attendance (per participant): 40 minutes \
+Duration Attendance (total): 3137 minutes (according to Zoom)
+
 ### Quantum Algorithms
 **Bedah Quantum Algo Secara Sederhana**  
 oleh **Drestanto Muhammad Dyasputro**  
