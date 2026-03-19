@@ -1,15 +1,18 @@
 # ⚛️ Acara-acara di Komunitas Belajar Komputasi Kuantum
 
 ## 📅 Event Terdekat
-**Coming Soon Lagi**
-### Sharing Session 8: Quantum Optimization
-🗓️ **Jumat, 13 Februari 2026**  
-🕖 **19.00 WIB**  
-📍 **Via Zoom**
+**Coming Soon**
 
 ---
 
 ## 📅 Past Event
+### Optimization 101: Optimization Problem, QUBO, QAOA
+🗓️ **Async, Maret 2026**  
+🕖 **Async**  
+📍 **Via Zoom** \
+🪵 [Log](events_log/2026_03_00-Optimization.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1KW-Uq8ZIBiNf9cS1nL9ftOspdXon47Fx?usp=drive_link) \
+
 ### Variational Algorithms
 **Variational quantum (and classical) algorithms forHamiltonian Simulation**  
 oleh **Meng E. Ong** ([@fisikawan.gendeng](https://www.instagram.com/fisikawan.gendeng))  
