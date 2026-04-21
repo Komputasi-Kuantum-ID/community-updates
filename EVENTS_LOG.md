@@ -8,7 +8,7 @@
 ## 📅 Past Event
 ### Ekosistem Riset dan Conference Quantum
 **Sharing Ekosistem Quantum Teleportation di Dunia Riset, Industri, dan Conference**  
-oleh **Muhammad Taufiqi**  
+oleh **Muhammad Taufiqi**: Dosen Fisika ITS  
 🗓️ **Jum'at, 17 April 2026**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom** \
@@ -20,7 +20,7 @@ Duration Attendance (total): 1821 minutes (according to Zoom)
 
 ### Sharing S3 Korea Selatan
 **Sharing Pengalaman Riset Quantum di Korea Selatan sebagai Mahasiswa S3**  
-oleh **Abdurrahman Shafar**  
+oleh **Abdurrahman Shafar**: Mahasiswa PhD Quantum di Korsel  
 🗓️ **Selasa, 7 April 2026**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom** \
@@ -31,6 +31,7 @@ Duration Attendance (per participant): 60 minutes \
 Duration Attendance (total): 2598 minutes (according to Zoom)
 
 ### Optimization 101: Optimization Problem, QUBO, QAOA
+oleh **Drestanto Muhammad Dyasputro**  
 🗓️ **Async, Maret 2026**  
 🕖 **Async**  
 📍 **Via Zoom** \
@@ -75,7 +76,7 @@ Duration Attendance (total): 3327 minutes (according to Zoom)
 
 ### Sharing Learning Roadmap
 **Launching Komunitas dan Learning Roadmap Sharing**  
-oleh **Drestanto Muhammad Dyasputro** (lagi, wkwkwkwk)
+oleh **Drestanto Muhammad Dyasputro** (lagi, wkwkwkwk) \
 🗓️ **Senin, 15 Desember 2025**  
 🕖 **19.00 WIB**  
 📍 **Via Zoom** \
