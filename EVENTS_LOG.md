@@ -6,6 +6,30 @@
 ---
 
 ## 📅 Past Event
+### Ekosistem Riset dan Conference Quantum
+**Sharing Ekosistem Quantum Teleportation di Dunia Riset, Industri, dan Conference**  
+oleh **Muhammad Taufiqi**  
+🗓️ **Jum'at, 17 April 2026**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
+🪵 [Log](events_log/2026_04_17-EkosistemQuantum.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1h-TCRxhsjsXWMdhW1N7-PA84uAzA15Vg?usp=drive_link) \
+Zoom Participant: 43 (according to Zoom) \
+Duration Attendance (per participant): 42 minutes \
+Duration Attendance (total): 1821 minutes (according to Zoom)
+
+### Sharing S3 Korea Selatan
+**Sharing Pengalaman Riset Quantum di Korea Selatan sebagai Mahasiswa S3**  
+oleh **Abdurrahman Shafar**  
+🗓️ **Selasa, 7 April 2026**  
+🕖 **19.00 WIB**  
+📍 **Via Zoom** \
+🪵 [Log](events_log/2026_04_07-S3Korea.md) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1NIOFmmtKrrwVHxNpeIcrEky-Yb-CsIsK?usp=drive_link) \
+Zoom Participant: 43 (according to Zoom) \
+Duration Attendance (per participant): 60 minutes \
+Duration Attendance (total): 2598 minutes (according to Zoom)
+
 ### Optimization 101: Optimization Problem, QUBO, QAOA
 🗓️ **Async, Maret 2026**  
 🕖 **Async**  
@@ -100,7 +124,7 @@ Duration Attendance (per participant): 46 minutes \
 Duration Attendance (total): 4293 minutes (according to Zoom)
 
 ## 🕓 Arsip Kegiatan
-**Januari 2026**: Sharing Session Lagi \
+**Januari-April 2026**: Sharing Session Lagi \
 **15 Desember 2025**: Sharing Learning Roadmap by Zoom \
 **15 Desember 2025**: Community Launching by WA \
 **3 Desember 2025**: Sharing Teleportasi Quantum by Zoom \
