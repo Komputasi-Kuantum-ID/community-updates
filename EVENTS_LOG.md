@@ -35,7 +35,7 @@ Duration Attendance (total): 2598 minutes (according to Zoom)
 🕖 **Async**  
 📍 **Via Zoom** \
 🪵 [Log](events_log/2026_03_00-Optimization.md) \
-🔗 [Supporting files](https://drive.google.com/drive/folders/1KW-Uq8ZIBiNf9cS1nL9ftOspdXon47Fx?usp=drive_link) \
+🔗 [Supporting files](https://drive.google.com/drive/folders/1KW-Uq8ZIBiNf9cS1nL9ftOspdXon47Fx?usp=drive_link)
 
 ### Variational Algorithms
 **Variational quantum (and classical) algorithms forHamiltonian Simulation**  
